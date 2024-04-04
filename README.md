@@ -1,4 +1,14 @@
 # Git and github laboratory
-Git practice laboratory.
+
+## Description
+Git practice repository in CS, git practice laboratory.
+
+##Contents
+
+
+##References
+
+
+
 
 José Manuel 
