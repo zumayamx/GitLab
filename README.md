@@ -6,7 +6,7 @@ Git practice repository in CS, git practice laboratory.
 ## Contents
 ### Imagenes
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, 
-of an Octocat smiling and raising a tentacle.](https://cdn-2.motorsport.com/images/mgl/YMdm7R32/s8/charles-leclerc-ferrari.jpg)
+of an Octocat smiling and raising a tentacle.](https://www.elfinanciero.com.mx/resizer/ADbQtzpDIojGhtaovKx84MKdWEE=/400x267/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3MXLOOZN55CKXAKMZL2PRHWL4I.jpg)
 
 ## References
 
