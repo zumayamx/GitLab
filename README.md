@@ -8,6 +8,19 @@ Git practice repository in CS, git practice laboratory.
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, 
 of an Octocat smiling and raising a tentacle.](https://www.elfinanciero.com.mx/resizer/ADbQtzpDIojGhtaovKx84MKdWEE=/400x267/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3MXLOOZN55CKXAKMZL2PRHWL4I.jpg)
 
+### Code examples
+
+``` python
+def (a, b):
+  return  a + b
+
+```
+
+### List
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## References
 
 [Git pro book](https://git-scm.com/book/en/v2)
